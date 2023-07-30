@@ -1,0 +1,36 @@
+// =========================================================
+// * Argon Dashboard - v2.0.1
+// =========================================================
+//
+// * Product Page: https://www.creative-tim.com/product/app-component
+// * Copyright 2022 Creative Tim (https://www.creative-tim.com)
+//
+// Coded by www.creative-tim.com
+//
+// =========================================================
+//
+// * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+// Font Awesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+
+// Bootstrap Functions
+@import "app-component/bootstrap/functions";
+
+// Custom Variables
+@import "app-component/custom/variables";
+
+// Theme Variables
+@import "app-component/variables";
+
+// Bootstrap Core
+@import "app-component/bootstrap/bootstrap";
+
+// Theme Core
+@import "app-component/theme";
+
+// Custom Variables
+@import "app-component/custom/styles";
